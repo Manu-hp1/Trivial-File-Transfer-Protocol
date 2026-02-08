@@ -17,10 +17,10 @@ This work was carried out as part of the **Linux Internals module** in the **Emb
 
 ## 🎯 Objective
 
-- To understand client-server communication using UDP
-- To implement a simple file transfer protocol in C
-- To gain hands-on experience with Linux system calls
-- To strengthen fundamentals in network programming and debugging
+- **To understand client-server communication using UDP**
+- **To implement a simple file transfer protocol in C**
+- **To gain hands-on experience with Linux system calls**
+- **To strengthen fundamentals in network programming and debugging**
 ---
 
 ## ✨ Features
@@ -94,8 +94,8 @@ gcc tftp.c tftp_client.c -o tftp_client
 
 ## Learning Outcome and Impact
 
-Working on this project helped me understand how UDP-based communication works at a low level.
-It strengthened my knowledge of Linux system calls, networking fundamentals, and protocol-based application design.
+Working on this project helped me understand how **UDP-based communication** works at a low level.
+It strengthened my knowledge of **Linux system calls, networking fundamentals, and protocol-based application design**.
 This project also improved my debugging approach and confidence in implementing system-level applications in C.
 
 ---
